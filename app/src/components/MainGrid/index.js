@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from 'styled-components';
 
 export const MainGrid = styled.main`
   display: grid;
@@ -23,4 +23,4 @@ export const MainGrid = styled.main`
     grid-template-areas: "profileArea welcomeArea relationsArea";
     grid-template-columns: 160px 1fr 312px;
   }
-`
+`;

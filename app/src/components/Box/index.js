@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from 'styled-components';
 
 export const Box = styled.div`
   background: #fff;
@@ -54,4 +54,4 @@ export const Box = styled.div`
     border-radius: 10000px;
     background-color: #6F92BB;
   }
-`
+`;
